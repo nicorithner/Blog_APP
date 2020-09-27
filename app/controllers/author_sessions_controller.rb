@@ -10,4 +10,9 @@ class AuthorSessionsController < ApplicationController
       render action: :new
     end
   end
+
+  def destroy
+    logout
+    redirect_to(:authors, notice: "logged out!")
+  end
 end

@@ -1,24 +1,15 @@
-# README
+# Blogger project
+Project to create a simple blog system and learn the basics of Ruby on Rails including:
+  - Models, Views, and Controllers (MVC)
+  - Data Structures & Relationships
+  - Routing
+  - Migrations
+  - Views with forms, partials, and helpers
+  - RESTful design
+  - Adding gems for extra features
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**[The Odin Project Rails Tutorial](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails?ref=lnav)**
+**[Jumpstart Lab's Blogger 2 Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)**
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Statistics
+   ![](https://img.shields.io/badge/Rails-5.2.4-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)    ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)

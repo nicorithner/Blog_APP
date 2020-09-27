@@ -9,6 +9,7 @@ Project to create a simple blog system and learn the basics of Ruby on Rails inc
   - Adding gems for extra features
 
 **[The Odin Project Rails Tutorial](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails?ref=lnav)**
+
 **[Jumpstart Lab's Blogger 2 Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)**
 
 ## Statistics
